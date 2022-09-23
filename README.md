@@ -11,7 +11,7 @@
 
 🛠️My Skills 
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&color=red&logo=MySQL&logoColor=white)  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&color=yellow&logo=Python&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&color=red&logo=MySQL&logoColor=black)  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&color=yellow&logo=Python&logoColor=black) 
 
 ##
 
