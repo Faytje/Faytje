@@ -5,7 +5,7 @@
 
 👨‍💻| I enjoy trying new things and learn to create my own projects. I currently have 2 projects running. one is a modenr linux distro and the other one is a recreation of the windwos start menu.
 
-🎸| Besides my education, i like to hang with friends and family. I'm also learning to 3D modeleling.
+🎸| Besides my education, i like to hang with friends and family and learning new things.
 
 ##
 
