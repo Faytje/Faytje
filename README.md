@@ -7,7 +7,7 @@
 
 👨‍💻| I enjoy trying new things and learn to create my own projects. I currently have 2 projects running. one is a modern linux distro and the other one is a recreation of the windwos start menu.
 
-🎸| Besides my education, i like to hang out with friends and family and learning new things.
+🎸| Besides my education, i like to hang out with friends and family and learn new things.
 
 ##
 
