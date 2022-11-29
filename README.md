@@ -5,7 +5,7 @@
 
 🎓| Im Rick! A student in IT and Software developent and current owner/founder of Insert Interactive. I'm in my last year of IT study and planning to seek higher eduacation in the form of cyber security.
 
-👨‍💻| I enjoy trying new things and learn to create my own projects. I currently have 2 projects running. one is a modern linux distro and the other one is a recreation of the windwos start menu.
+👨‍💻| I enjoy trying new things and learn to create my own projects. I currently have 2 projects running. one is a modern linux distro and the other one is a recreation of the windows start menu.
 
 🎸| Besides my education, i like to hang out with friends and family and learn new things.
 
