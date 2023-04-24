@@ -1,7 +1,7 @@
 
 # Heya!
 
-🎓| Im Rick! A student in IT. I'm in my last year of IT study and planning to seek higher eduacation in the form of cyber security.
+🎓| Im Rick! A student in IT
 
 ##
 
