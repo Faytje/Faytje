@@ -1,13 +1,7 @@
 
 # Heya!
 
-🛫| Insert Interactive. An creative and inspiring company. We specialize in making games, software and scripts. Support: https://discord.gg/Wu66P2kz6z or email us: insertinteractive@gmail.com
-
-🎓| Im Rick! A student in IT and Software developent and current owner/founder of Insert Interactive. I'm in my last year of IT study and planning to seek higher eduacation in the form of cyber security.
-
-👨‍💻| I enjoy trying new things and learn to create my own projects. I currently have 2 projects running. one is a modern linux distro and the other one is a recreation of the windows start menu.
-
-🎸| Besides my education, i like to hang out with friends and family and learn new things.
+🎓| Im Rick! A student in IT. I'm in my last year of IT study and planning to seek higher eduacation in the form of cyber security.
 
 ##
 
