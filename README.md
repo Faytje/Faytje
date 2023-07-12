@@ -1,6 +1,6 @@
 
 # Heya!
- Im Rick! A student in IT. 
+ I'm Rick! A student in IT. 
 
 🎓| I'm currently studying Cyber Security in the Netherlands. 
 
