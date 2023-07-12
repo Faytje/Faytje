@@ -1,7 +1,14 @@
 
 # Heya!
+ Im Rick! A student in IT. 
 
-🎓| Im Rick! A student in IT
+🎓| I'm currently studying Cyber Security in the Netherlands. 
+
+📚| As for my experience. i have a degree in IT Management and have worked at a IT Company in the Netherlands.
+
+🌐| I have worked with multible operating system such as: Windows, Linux and FreeBSD. 
+
+💻| I have experience with servers, switches, routers and computer systems.
 
 ##
 
